@@ -3,7 +3,7 @@
 
 ## 미리보기
 ### `프로필 이미지 확대`
-|             [CSS 보기](/css/htip-1/profile_image.css)             |
+|             [CSS 보기](/css/htip-2/profile_image.css)             |
 |:-------------------------------------------------------:|
 |![뇨게더 적용 모습](/proposals/htip-2/large_profile_application.jpg)|
 
