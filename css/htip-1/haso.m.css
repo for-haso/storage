@@ -1,0 +1,8 @@
+/* Haso2M.css */
+
+header > #header-area > a > h1 {
+    background: url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_haso_white.png) no-repeat;
+    background-size: 106.6667px 32px;
+    width: 106.6667px;
+    margin-top: 2px;
+}
