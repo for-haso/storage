@@ -1,0 +1,25 @@
+/* Haso2.css - 접속자 수 부분 관련 */
+
+#board-info #viewers-area {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: normal;
+    vertical-align: middle;
+    line-height: 18px;
+    display: inline-block;
+    background-color: rgba(255,255,255,.3);
+    padding: 3px 10px;
+    border-radius: 12px;
+    height: 24px;
+    margin-left: 5px;
+}
+
+#board-info #viewers-area i.fa {
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+}
+#board-info #viewers-area #viewers {
+    vertical-align: middle;
+    color: #356c9c;
+}
