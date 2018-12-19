@@ -9,6 +9,7 @@ header .row > div:nth-child(1) > a {
 }
 
 header #header-bar {
+    /* 위쪽 여백을 0.65em 줄여 로고 이미지 위/아래 여백의 균형을 맞춤 */
     margin-top: 0.35em;
     margin-bottom: 1em;
     padding-right: 30px;

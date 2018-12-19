@@ -4,5 +4,7 @@ header > #header-area > a > h1 {
     background: url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_haso_white.png) no-repeat;
     background-size: 106.6667px 32px;
     width: 106.6667px;
+    /* 트게더 기본 스타일 시트는 위쪽 여백 4px, 아래쪽 여백 8px로 비율이 불균형 */
+    /* 위쪽 여백 2px를 주어 위/아래 여백을 동일하게 함 */
     margin-top: 2px;
 }
